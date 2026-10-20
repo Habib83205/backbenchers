@@ -47,3 +47,8 @@ The screenshots are *reference material*, not to be loaded directly into the gam
 ## Classroom environment references
 
 See [08-classroom-environments](./08-classroom-environments/README.md) for 7 photographed/illustrated classroom layouts, vintage desks, chalkboard scenes, lighting and environmental mood.
+
+
+## Table No. 21 playfield — 7 desk/wood references
+
+See [09 — Table Arena References](./09-table-arena-references/README.md) for wood grain, old school-bench textures, daylight window shadows, warm lighting, and desktop composition. These images are **reference material**, not production sprites.

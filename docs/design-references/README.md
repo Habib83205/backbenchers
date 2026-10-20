@@ -34,3 +34,7 @@ This folder is an organized reference board for **BACKBENCHERS**, a realistic 2.
 **Implementation:** The images here are reference screenshots, not licensed runtime sprites, app UI backgrounds, or gameplay art. Keep reference files outside production bundles.
 
 **Assets:** The 10 original PNGs correspond to the relative paths linked above.
+
+## Classroom environment moodboard (07 screenshots)
+
+See the separate [08 — Classroom Environments](./08-classroom-environments/README.md) guide for golden-hour lighting, old wooden classroom desks, chalkboard backgrounds, classroom arrangements and school-noticeboard details. These complement the UI inspirations above and should inform the original Table No. 21 environment.
